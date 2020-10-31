@@ -1,3 +1,7 @@
 this is file 1
 this is not done
+<<<<<<< HEAD
 ye kya ho rha hai
+=======
+this is not fair br2
+>>>>>>> br2
