@@ -1,14 +1,12 @@
 this is file 1
 this is not done
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ye kya ho rha hai
-=======
+
 this is not fair br2
->>>>>>> br2
-=======
+
 modified through branch br1 by nisha
 modified through branch br1 by mamta
 modified through branch br3 by nisha
 again modified by b3
->>>>>>> br3
+
